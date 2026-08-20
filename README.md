@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**PetoSomIbul/PetoSomIbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yoon Park
+> **_🌏 Hello world!_  
+My name is Yoon Park from South Korea. I am very interested in AI, OS, Kernel, Embeded Systems, Web Technologies, and more.  
+I am thankful that I was born in this era that I can handle and experiment with so many technologies.  
+I wish my trail can lead to another idea that can change the world to a better place eventually.**
+## 🛠️ The Projects I am Working on
+1. **Victionary** : A Neovim  PlugIn that summarize and index a file, supporting fast jump between the definitions. 
+2. **QuRio** : Easy and simple QR code reader using OCR
+  
+## 💤 The Projects that is Archived
+1. **Swayout** : A tiling system benchmarking the DWM's master layout patch for Sway Wayland Compositor.
