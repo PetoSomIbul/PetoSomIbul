@@ -1,8 +1,8 @@
 # Yoon Park
 > **_🌏 Hello world!_  
 My name is Yoon Park from South Korea. I am very interested in AI, OS, Kernel, Embeded Systems, Web Technologies, and more.  
-I am thankful that I was born in this era that I can handle and experiment with so many technologies.  
-I wish my trail can lead to another idea that can change the world to a better place eventually.**
+I am thankful that I was born in an era that I can experiment with many technologies.  
+I wish my journey can lead to another idea that makes the world to a better place.**
 ## 🛠️ The Projects I am Working on
 1. **Victionary** : A Neovim  PlugIn that summarize and index a file, supporting fast jump between the definitions. 
 2. **QuRio** : Easy and simple QR code reader using OCR
